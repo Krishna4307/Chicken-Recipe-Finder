@@ -26,3 +26,5 @@ API Used
 
 Project Objective
 The goal of this project is to practise JavaScript fundamentals through a practical web application, including API integration, asynchronous data fetching, dynamic HTML rendering, array methods, search and filter functionality, event handling, and Local Storage.
+
+Watch Demo link :  https://krishna4307.github.io/Chicken-Recipe-Finder/
